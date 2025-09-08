@@ -1,71 +1,71 @@
 # Forest Runner - Unity 2D Project
 
-## 📖 Proje Hakkında
+## 📖 About the Project
 
-Bu proje Unity 2D kullanılarak geliştirilmiş bir forest runner oyunudur. Oyuncu karakteri ormanda koşar ve elmaslar toplar.
+This project is a forest runner game developed using Unity 2D. The player character runs through the forest and collects diamonds.
 
-## 🎮 Oyun Özellikleri
+## 🎮 Game Features
 
-- 2D platform oyunu
-- Karakter animasyonları (koşma, zıplama, durma)
-- Coin/elmas toplama sistemi
-- Paralaks arka plan efekti
-- Ses efektleri
-- Seviye geçişi sistemi
+- 2D platform game
+- Character animations (running, jumping, idle)
+- Coin/diamond collection system
+- Parallax background effect
+- Sound effects
+- Level transition system
 
-## 🛠️ Kullanılan Teknolojiler
+## 🛠️ Technologies Used
 
-- **Unity Engine** - 2D oyun geliştirme
-- **C#** - Programlama dili
+- **Unity Engine** - 2D game development
+- **C#** - Programming language
 - **TextMesh Pro** - UI text rendering
 
-## 📁 Proje Yapısı
+## 📁 Project Structure
 
 ```
 Assets/
-├── Audio/           # Ses dosyaları
-├── Fonts/          # Font dosyaları  
-├── Prefabs/        # Unity prefab'ları
-├── Scenes/         # Oyun sahneleri
-├── Script/         # C# script dosyaları
-├── Textures/       # Görsel dosyalar
-└── TextMesh Pro/   # TextMesh Pro dosyaları
+├── Audio/           # Audio files
+├── Fonts/          # Font files  
+├── Prefabs/        # Unity prefabs
+├── Scenes/         # Game scenes
+├── Script/         # C# script files
+├── Textures/       # Visual assets
+└── TextMesh Pro/   # TextMesh Pro files
 ```
 
-## 🎯 Ana Script'ler
+## 🎯 Main Scripts
 
-- `CharacterController.cs` - Karakter hareket kontrolü
-- `Coin.cs` - Coin toplama mekaniği
-- `LevelRestart.cs` - Seviye yeniden başlatma
-- `NextLevel.cs` - Sonraki seviyeye geçiş
+- `CharacterController.cs` - Character movement control
+- `Coin.cs` - Coin collection mechanics
+- `LevelRestart.cs` - Level restart functionality
+- `NextLevel.cs` - Next level progression
 
-## 🎨 Kullanılan Asset'ler
+## 🎨 Assets Used
 
-- Sprite sayfaları ve animasyonlar
-- 8-bit stil ses efektleri
-- Parallax arka plan resimleri
+- Sprite sheets and animations
+- 8-bit style sound effects
+- Parallax background images
 
-## 🚀 Kurulum
+## 🚀 Installation
 
-1. Unity Hub'da projeyi açın
-2. Unity 2021.3 LTS veya daha yeni bir versiyon kullanın
-3. Play butonuna basarak oyunu test edin
+1. Open the project in Unity Hub
+2. Use Unity 2021.3 LTS or newer version
+3. Press the Play button to test the game
 
-## 🎮 Kontroller
+## 🎮 Controls
 
-- **A/D veya Arrow Keys** - Sağa/sola hareket
-- **Space** - Zıplama
+- **A/D or Arrow Keys** - Move left/right
+- **Space** - Jump
 
-## 📋 Geliştirme Notları
+## 📋 Development Notes
 
-Bu proje Unity 2D öğrenme sürecinde geliştirilmiştir. Oyun mekaniği, animasyon sistemi ve ses entegrasyonu konularında pratik yapılmıştır.
+This project was developed during the Unity 2D learning process. It focuses on practicing game mechanics, animation systems, and audio integration.
 
-## 🔧 Build Bilgileri
+## 🔧 Build Information
 
-Proje macOS için build edilmiştir. Builds klasöründe hazır build'i bulabilirsiniz.
+The project is built for macOS. You can find the ready build in the Builds folder.
 
 ---
 
-**Geliştirici:** YagmurCemGul  
-**Proje Tarihi:** 2025  
-**Unity Versionu:** 2021.3+
+**Developer:** YagmurCemGul  
+**Project Date:** 2025  
+**Unity Version:** 2021.3+
