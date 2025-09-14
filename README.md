@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="ChatGPT Image 12 Eyl 2025 22_08_21" src="https://github.com/user-attachments/assets/e4b8d509-bb67-4098-9de0-1d8736b019e9" />
+<img width="1472" height="704" alt="Gemini_Generated_Image_uk1gjxuk1gjxuk1g" src="https://github.com/user-attachments/assets/df813d28-a228-45cd-9e8d-80bddd38d9b5" />
+
 
 # Forest Runner - Unity 2D Project
 
